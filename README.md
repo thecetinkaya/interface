@@ -3,6 +3,7 @@ Mehmet Akif Ersoy Üniversitesi Bilgisayar Teknolojileri Bölümü Bilgisayar Pr
 
 # Uygulamalar Netbeans Üzerinde oluşturulmuştur.
 # Uygulamalar *RAR içine sıkıştırılmıştır.
+# Uygulamalara erişmek için Clone or Download kutucuğuna tıklayıp ZIP olarak bilgisayarınıza indirin.
 
 # UYGULAMA -1- : Müşteri ve Öğrenci Uygulaması
 # UYGULAMA -2- : Vize ve Final Notu Hesaplama
